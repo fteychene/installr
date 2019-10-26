@@ -2,7 +2,7 @@
 Custom tool for autoinstall laptop
 
 ## Goal
-InstallR is aimed to be a ingle executable to download and use directly on your machine that :
+InstallR is aimed to be a single executable to download and use directly on your machine that :
  * Clone a git repository
  * Read configuration from repository
  * Execute tasks and configuration
@@ -17,7 +17,7 @@ Because ansible rely on python installation and InstallR goal is to be the most 
 InstallR binary rely on the following system libraries :
  * `libssl`
 
-#Todo
+# Todo
 
 - [ ] Create CLI tool
 - [ ] Download git repsository
